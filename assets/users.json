@@ -1,0 +1,36 @@
+{
+    "users": [
+      {
+        "name": "Mohamed Abdo",
+        "email": "@moabdo",
+        "photoUrl": "https://m0.her.ie/wp-content/uploads/2018/01/07093633/GettyImages-887815620.jpg",
+        "phoneNumber": "+971556074080",
+        "address": "Abu Dhabi",
+        "online": true
+      },
+      {
+        "name": "Saleh Adam",
+        "email": "@saleh95",
+        "photoUrl": "https://parade.com/.image/t_share/MTk3MTU5ODE0NzEzODQ1MDU1/morgan-freeman-copy.jpg",
+        "phoneNumber": "+201090718223",
+        "address": "Egypt",
+        "online": false
+      },
+      {
+        "name": "Ramy Saad",
+        "email": "@ramysaad",
+        "photoUrl": "https://spunout.ie/wp-content/uploads/2021/01/portrait-black-young-man-face-man-person-ethnic-student-diversity-diverse-confident-millennial_t20_K6aZOV-2.jpg",
+        "phoneNumber": "+971556072020",
+        "address": "Dubi",
+        "online":  false
+      },
+      {
+        "name": "Nora Hassen",
+        "email": "@nora01",
+        "photoUrl": "https://www.sayidaty.net/sites/default/files/styles/900_scale/public/2022-06/113778.jpeg",
+        "phoneNumber": "+97155102020",
+        "address": "Abu Dhabi",
+        "online": true
+      }
+    ]
+  }
